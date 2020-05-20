@@ -1,4 +1,7 @@
 # Profile Modülü
+
+When the user becomes a member, a profile table is created and other transactions to be done are registered with the update.
+
 Kullanıcılar için tasarlanmış profil editleme modülüdür.Adres modülü ile birlikte yüklenir.
 Kullanıcı profil resmini, kişisel bilgileri ve şifre bilgilerini bu modül ile değiştirebilirler.
 
